@@ -1,0 +1,3 @@
+#!/workspaces/DPS-AI-Challenge/dps-ai/bin/python
+from numba.pycc import main
+main()
